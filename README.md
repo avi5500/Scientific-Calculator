@@ -19,4 +19,4 @@ This is a Scientific Calculator build using simple HTML, CSS, and JavaScript whi
 10. `n!`: Returns the factorial of a number.
 
 # Scientific Calculator
-![img](/image/calculator.png)
+![img](/images/calculator.png)
