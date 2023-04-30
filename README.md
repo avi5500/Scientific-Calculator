@@ -6,7 +6,7 @@ This is a Scientific Calculator build using simple HTML, CSS, and JavaScript whi
 2. `CSS`: Used for styles and aligning the buttons.
 3. `JavaScript`: Used for the functionality of the calculator.
 
-#Working of the Calculator:
+# Working of the Calculator:
 1. `sqrt`: Returns the square root of the input.
 2. `sin`,`cos`,`tan`: Basic trigonometric functions.
 3. `log`: Returns the natural logarithm (base e) of a number.
@@ -17,3 +17,6 @@ This is a Scientific Calculator build using simple HTML, CSS, and JavaScript whi
 8. `pi`: Returns mathematical value of Pi.
 9. `exp`: Returns e raised to the power of number.
 10. `n!`: Returns the factorial of a number.
+
+# Scientific Calculator
+![img](/image/calculator.png)
