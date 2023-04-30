@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body{
+    background-color: #dedddd;
+}
+
+table{
+    width: 420px;
+    height: 70%;
+    padding: 15px;
+    border-radius: 0.7rem;
+    background-color: #c9c5c5;
+}
+
+.scicalc{
+    text-align: center;
+    height: 5px;
+    padding: 0px;
+    font-size: 13px;
+    color: #5a5a5a;
+    font-weight: bold;
+    font-family: 'Orbitron', sans-sarif;
+}
+
+#btn{
+    width: 60px;
+    height: 90%;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #c9c9c9;
+    box-shadow: rgba(62, 62, 62, 0.101) 0px 5px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 0.7rem;
+}
+
+#nbtn{
+    width: 60px;
+    height: 90%;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #e8e8e8;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 200px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 0.7rem;
+}
+
+input[type="button"]{
+    color: black;
+    width: 100%;
+}
+
+input[type="text"]{
+    background-color:  #f2f2f2;
+    width: 98%;
+    height: 50px;
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px inset;
+    border-radius: 0.7rem;
+}
+
+#calc{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+input:active[type="button"]{
+    background: black;
+}
